@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Enes_Sahin_2018510093_DEUNIAC">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_add_sub1:inst11|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_5ki.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|R0:inst5|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux14:inst66|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Q:inst25|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_2cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux14:inst67|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Instruction_Memory:inst12|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_bba1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Program_Counter:inst2|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_qqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|R1:inst6|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Stack_Pointer:inst3|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_nih.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux11:inst54|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_5qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux5:inst15|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_4qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux9:inst28|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_add_sub2:inst13|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_pni.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Instruction_Register:inst4|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_7sj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux10:inst30|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_vpc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Address_Register:inst1|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_pqj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Full_Adder:inst49|lpm_add_sub:LPM_ADD_SUB_component" CBX_FILE_NAME="add_sub_hlg.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|R2:inst7|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Sequence_Counter:inst21|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_bri.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_decoder3:inst19|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_lbf.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_mux2:inst6|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_9qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Input_Register:inst8|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Stack_Memory:inst11|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_ami1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_decoder1:inst14|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_0af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux10:inst94|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_vpc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux14:inst72|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux4:inst55|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_4qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_mux1:inst8|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_mux1:inst|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux12:inst57|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_1qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux14:inst64|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_mux1:inst10|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_mux1:inst9|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Output_Register:inst9|lpm_counter:LPM_COUNTER_component" CBX_FILE_NAME="cntr_5cj.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_decoder4:inst22|lpm_decode:LPM_DECODE_component" CBX_FILE_NAME="decode_5af.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|lpm_mux14:inst65|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_upc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|Data_Memory:inst10|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_dii1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|ALU:inst|lpm_mux3:inst1|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_6qc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|Enes_Sahin_2018510093_DEUNIAC|BUS:inst20|lpm_mux:LPM_MUX_component" CBX_FILE_NAME="mux_3qc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
