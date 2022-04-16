@@ -1,0 +1,16 @@
+Fitter Status : Successful - Wed Jun 02 00:08:14 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : Enes_Sahin_2018510093_DEUNIAC
+Top-level Entity Name : Enes_Sahin_2018510093_DEUNIAC
+Family : Cyclone III
+Device : EP3C16F484C6
+Timing Models : Final
+Total logic elements : 150 / 15,408 ( < 1 % )
+    Total combinational functions : 146 / 15,408 ( < 1 % )
+    Dedicated logic registers : 48 / 15,408 ( < 1 % )
+Total registers : 48
+Total pins : 122 / 347 ( 35 % )
+Total virtual pins : 0
+Total memory bits : 496 / 516,096 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 112 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

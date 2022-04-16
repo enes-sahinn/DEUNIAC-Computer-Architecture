@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\enes_\OneDrive\Masaüstü\Quartus Projects\Enes_Sahin_2018510093_Asgn2\simulation\qsim
+vEnes_Sahin_2018510093_Asgn1
+Z1 IXCF[TN>Q365W5Y]g4moO12
+Z2 VIDMfDL<dO=cUbUco]mgN>1
+Z3 dC:\Users\enes_\OneDrive\Masaüstü\Quartus Projects\Enes_Sahin_2018510093_Asgn2\simulation\qsim
+Z4 w1619819874
+Z5 8Enes_Sahin_2018510093_Asgn2.vo
+Z6 FEnes_Sahin_2018510093_Asgn2.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+Z9 n@enes_@sahin_2018510093_@asgn1
+Z10 !s100 g1SnE[UFE`_1[jm3gO^6Y1
+Z11 !s108 1619819876.094000
+Z12 !s107 Enes_Sahin_2018510093_Asgn2.vo|
+Z13 !s90 -work|work|Enes_Sahin_2018510093_Asgn2.vo|
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn1_vlg_check_tst
+Z14 IXXFUB8`57^T0L9S[>FD=?2
+Z15 VaAa:BZZS>[?BBY=T[naV60
+R3
+Z16 w1619819873
+Z17 8Enes_Sahin_2018510093_Asgn2.vt
+Z18 FEnes_Sahin_2018510093_Asgn2.vt
+L0 61
+R7
+r1
+31
+Z19 !s108 1619819876.198000
+Z20 !s107 Enes_Sahin_2018510093_Asgn2.vt|
+Z21 !s90 -work|work|Enes_Sahin_2018510093_Asgn2.vt|
+R8
+Z22 n@enes_@sahin_2018510093_@asgn1_vlg_check_tst
+Z23 !s100 n9dL61INiPF^gi7MNCASV1
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn1_vlg_sample_tst
+Z24 IWNiHD5KdgZ7QaSbXzm:KV1
+Z25 V_Nf^IoPn<RVX48nz^jPCl0
+R3
+R16
+R17
+R18
+L0 29
+R7
+r1
+31
+R19
+R20
+R21
+R8
+Z26 n@enes_@sahin_2018510093_@asgn1_vlg_sample_tst
+Z27 !s100 <MYm0UcD``aNHE5YeCd:>0
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn1_vlg_vec_tst
+Z28 I]]^i<lccZXWAMKLBVD^Ra1
+Z29 V`ZS6`3bPYeZL<zVgT4=O;0
+R3
+R16
+R17
+R18
+Z30 L0 236
+R7
+r1
+31
+R19
+R20
+R21
+R8
+Z31 n@enes_@sahin_2018510093_@asgn1_vlg_vec_tst
+Z32 !s100 R2bRQNh0SihF52K:gXWlg2
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn2
+Z33 !s100 H;[i?2^EL[o7OYAZVhA_V0
+Z34 IaE:o2NR@24kLh>XzYAnR51
+Z35 V[o[LbJEKKNRKm5HOUON[92
+R3
+Z36 w1619971382
+R5
+R6
+L0 31
+R7
+r1
+31
+R13
+R8
+Z37 n@enes_@sahin_2018510093_@asgn2
+Z38 !s108 1619971382.708000
+R12
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn2_vlg_check_tst
+Z39 !s100 6QVG^z268QJnd9@F8;VT:1
+Z40 IV@M_kXGfHmZWghJ<3ZU1G1
+Z41 V>;DoTb`<FTz8>K=ik[GJS1
+R3
+Z42 w1619971381
+R17
+R18
+L0 91
+R7
+r1
+31
+Z43 !s108 1619971382.788000
+R20
+R21
+R8
+Z44 n@enes_@sahin_2018510093_@asgn2_vlg_check_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn2_vlg_sample_tst
+Z45 !s100 ]BlVG;PZDLcGP@]P<[ZDn1
+Z46 IkZ08D]@@5Ad;oG@W4WV8m0
+Z47 VmY0XWTXanLVB8bQBZZG?_2
+R3
+R42
+R17
+R18
+L0 29
+R7
+r1
+31
+R43
+R20
+R21
+R8
+Z48 n@enes_@sahin_2018510093_@asgn2_vlg_sample_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_Asgn2_vlg_vec_tst
+Z49 !s100 ;=8`C40TcMa`U]:g4K_8M2
+Z50 I^2Z@AiiQ[hV5_KXh9HCU=2
+Z51 Vn<gM4JO80eY8=h8DWRFkP0
+R3
+R42
+R17
+R18
+Z52 L0 1376
+R7
+r1
+31
+R43
+R20
+R21
+R8
+Z53 n@enes_@sahin_2018510093_@asgn2_vlg_vec_tst
+!i10b 1
+!s85 0
+!s101 -O0
+vEnes_Sahin_2018510093_DEUNIAC
+Z54 !s100 2eSON]P<OG@hRmc[Y7@ZT3
+Z55 IcR[azdhRdSzJ^<Y3Jl4zL3
+Z56 VCREZJ2`M_6lKOmVK4P1N;0
+Z57 dC:\Users\enes_\OneDrive\Masaüstü\Quartus Projects\Enes_Sahin_2018510093_DEUNIAC\simulation\qsim
+Z58 w1624400255
+Z59 8Enes_Sahin_2018510093_DEUNIAC.vo
+Z60 FEnes_Sahin_2018510093_DEUNIAC.vo
+L0 31
+R7
+r1
+31
+Z61 !s90 -work|work|Enes_Sahin_2018510093_DEUNIAC.vo|
+R8
+Z62 n@enes_@sahin_2018510093_@d@e@u@n@i@a@c
+!i10b 1
+!s85 0
+Z63 !s108 1624400257.403000
+Z64 !s107 Enes_Sahin_2018510093_DEUNIAC.vo|
+!s101 -O0
+vEnes_Sahin_2018510093_DEUNIAC_vlg_check_tst
+!i10b 1
+Z65 !s100 PbAi>T37lgLPLZME`a0X:3
+Z66 Ime5^N;Wl?DhTQW^[19TCd1
+Z67 VP3dVZJ?6]<jk[LhdG:8EG3
+R57
+Z68 w1624400254
+Z69 8Enes_Sahin_2018510093_DEUNIAC.vt
+Z70 FEnes_Sahin_2018510093_DEUNIAC.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z71 !s108 1624400257.574000
+Z72 !s107 Enes_Sahin_2018510093_DEUNIAC.vt|
+Z73 !s90 -work|work|Enes_Sahin_2018510093_DEUNIAC.vt|
+!s101 -O0
+R8
+Z74 n@enes_@sahin_2018510093_@d@e@u@n@i@a@c_vlg_check_tst
+vEnes_Sahin_2018510093_DEUNIAC_vlg_sample_tst
+!i10b 1
+Z75 !s100 4D5jTIHJEgG6>jjWUFDbX0
+Z76 In]`LUHY6fk;aVMilGRo@k0
+Z77 VXl=XT[?>_QSN<2=YzE`IL2
+R57
+R68
+R69
+R70
+L0 29
+R7
+r1
+!s85 0
+31
+R71
+R72
+R73
+!s101 -O0
+R8
+Z78 n@enes_@sahin_2018510093_@d@e@u@n@i@a@c_vlg_sample_tst
+vEnes_Sahin_2018510093_DEUNIAC_vlg_vec_tst
+!i10b 1
+Z79 !s100 L32z[k65aS4iVb5J^[CRK1
+Z80 IYz[X8Rccj:5>QnAN@o4L;3
+Z81 VoL`e`<T_N>JHZ[T:diOZf2
+R57
+R68
+R69
+R70
+Z82 L0 1687
+R7
+r1
+!s85 0
+31
+R71
+R72
+R73
+!s101 -O0
+R8
+Z83 n@enes_@sahin_2018510093_@d@e@u@n@i@a@c_vlg_vec_tst
